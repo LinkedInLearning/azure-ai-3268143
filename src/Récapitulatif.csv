@@ -1,0 +1,7 @@
+﻿File name,Texte brut,SSML
+HeyAzureTests,"Hey Azure, What's the weather today ?
+Hey Azure, play this good old song I like, please !","<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{""VoiceNameToIdMapItems"":[{""Id"":""e0638b39-fbd2-4497-a482-e2f65759412a"",""Name"":""Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)"",""ShortName"":""en-US-GuyNeural"",""Locale"":""en-US"",""VoiceType"":""StandardVoice""},{""Id"":""e5e4f59b-65c6-42b2-a6e3-5985d1a1ea07"",""Name"":""Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)"",""ShortName"":""en-US-JennyNeural"",""Locale"":""en-US"",""VoiceType"":""StandardVoice""}]}-->
+<!--ID=FCB40C2B-1F9F-4C26-B1A1-CF8E67BE07D1;Version=1|{""Files"":{}}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{""Locales"":{""en-US"":{""AutoApplyCustomLexiconFiles"":[{}]}}}-->
+<speak xmlns=""http://www.w3.org/2001/10/synthesis"" xmlns:mstts=""http://www.w3.org/2001/mstts"" xmlns:emo=""http://www.w3.org/2009/10/emotionml"" version=""1.0"" xml:lang=""en-US""><voice name=""en-US-GuyNeural"">Hey Azure, What's the weather today ?</voice>
+<voice name=""en-US-JennyNeural"">Hey Azure, play this good old song I like, please !</voice></speak>"
