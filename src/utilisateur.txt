@@ -1,0 +1,5 @@
+J'ai besoin de trier les pièces défectueuses sur ma chaîne de fabrication.
+
+Je voudrais trier mes produits
+
+En fonction de la probabilité de panne sur les prochains lots
