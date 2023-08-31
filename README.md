@@ -6,7 +6,7 @@ Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours en
 
 Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utilisation de Codespaces GitHub dans le cadre de ce cours" pour savoir comment démarrer.    
 
-DESCRIPTION DE LA FORMATION
+Si vous concevez des applications et que vous voulez surfer sur la nouvelle vague de l'intelligence artificielle (IA), tirez parti des solutions Azure. Il s'agit du meilleur spot, ouvert aux débutants, proposant ses services pour que votre application voie, entende, ressente et comprenne les besoins des utilisateurs. Découvrez ces services de l'IA tels que Azure Machine Learning, Vision Studio, Speech Studio, Language Studio, Open AI Studio et ChatGPT. Sylvain Labasse, consultant développeur, vous accompagne dans la prise en main de la plateforme et son environnement.
 
 ## Instructions
 
@@ -34,8 +34,8 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/azure-ai-intelligence-artificielle-et-machine-learning-22830402/bienvenue-dans-azure-ai-intelligence-artificielle-et-machine-learning
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHvW31PMkzr3g/learning-public-crop_675_1200/0/1693481743476?e=1694091600&v=beta&t=ZFAgizuTLo9EpQzXNp8fTqPUqtXiZykyts9TkQrKOAU
 [lil-URL-trainer]: https://
 
 [1]: # (End of FR-Instruction ###############################################################################################)
